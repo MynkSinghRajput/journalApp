@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://mysmsr_db_user:vw91XTARuhZUaxoV@ac-tekls10-shard-00-00.761r9ft.mongodb.net:27017,ac-tekls10-shard-00-01.761r9ft.mongodb.net:27017,ac-tekls10-shard-00-02.761r9ft.mongodb.net:27017/?ssl=true&replicaSet=atlas-16215i-shard-0&authSource=admin&appName=Cluster0
+      uri:
       database: journaldb
       auto-index-creation: true
 
